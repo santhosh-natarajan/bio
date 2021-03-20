@@ -1455,5 +1455,10 @@ section .container {
 .direction-r .desc {
 	margin: 1em 4em 0 4em;
 }
+}
+/** Resume section **/
 
+.center-div { 
+  margin: auto;
+  width: 50%;
 }
