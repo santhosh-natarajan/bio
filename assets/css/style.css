@@ -11,7 +11,7 @@
 body {
   font-family: "Open Sans", sans-serif;
   background-color: #040404;
-  color: #fff;
+  color: #fff  !important;
   position: relative;
   background: transparent;
 }
@@ -460,6 +460,7 @@ section .container {
   font-weight: 600;
   font-family: "Poppins", sans-serif;
   color: #fff;
+  font-size: 14px;
 }
 
 .skills .progress .skill .val {
@@ -1341,7 +1342,7 @@ section .container {
 .desc {
   margin: 1em 0.75em 0 0;
   
-  font-size: 0.77777em;
+  font-size: 14px;
   font-style: italic;
   line-height: 1.5em;
 }
