@@ -16,6 +16,11 @@ body {
   background: transparent;
 }
 
+.primary-color { 
+  background-color: #18d26e !important;
+  border-color: #ccc !important;
+}
+
 body::before {
   content: "";
   position: fixed;
