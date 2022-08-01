@@ -1,0 +1,166 @@
+{
+    "vision": "",
+    "mission": "",
+    "milestones": [
+        {
+            "organization": "",
+            "orgWebsite": "",
+            "position": "",
+            "from":"",
+            "to": ""
+        }
+    ],
+    "awards": [
+
+        {   "sno":1,
+            "place":"Coimbatore",
+            "date":"March 2017",
+            "title": "Attendance and Punctuality",
+            "description":"Issued by Pinnacle Seven Technologies, For 100% attendance and punctuality in the office of the first quarter "
+        },
+        {   "sno":2,
+            "place":"Coimbatore",
+            "date":"June 2017",
+            "title": "Attendance and Punctuality",
+            "description":"Issued by Pinnacle Seven Technologies, For 100% attendance and punctuality in the office of the second quarter "
+        },
+        {
+            "sno":3,
+            "place":"Coimbatore",
+            "date":"Septemper 2017",
+            "title": "Attendance and Punctuality",
+            "description":"Issued by Pinnacle Seven Technologies, For 100% attendance and punctuality in the office of the third quarter "
+        },
+        {
+            "sno":4,
+            "place":"Coimbatore",
+            "date":"December 2017",
+            "title": "Vertical Excellence Award",
+            "description":"Issued by Pinnacle Seven Technologies, In recognition of dynamic performing in exploring different verticals and trending technical ideas for the year of 2017. "
+        },
+        {
+            "sno":5,
+            "place":"Coimbatore",
+            "date":"December 2017",
+            "title": "Gold swan of the year",
+            "description":"Issued by Pinnacle Seven Technologies, For maintaining remarkable record in attendance for the year of 2017. "
+        },
+        {
+            "sno":6,
+            "place":"Coimbatore",
+            "date":"January 2018",
+            "title": "Gold swan of the year",
+            "description":"Issued by Pinnacle Seven Technologies, For the best performer. "
+        },
+        {
+            "sno":7,
+            "place":"Coimbatore",
+            "date":"January 2018",
+            "title": "Attendance and Punctuality",
+            "description":"Issued by Pinnacle Seven Technologies, For 100% attendance and punctuality in the office of the first quarter"
+        },
+        {
+            "sno":8,
+            "place":"Coimbatore",
+            "date":"May 2018",
+            "title": "Attendance and Punctuality",
+            "description":"Issued by Pinnacle Seven Technologies, For 100% attendance and punctuality in the office of the second quarter"
+        },
+        {
+            "sno":9,
+            "place":"Coimbatore",
+            "date":"December 2019",
+            "title": "Best performance",
+            "description":"Issued by Pinnacle Seven Technologies, For the best performer. "
+        },
+        {
+            "sno":10,
+            "place":"Coimbatore",
+            "date":"December 2019",
+            "title": "Attendance and Punctuality",
+            "description":"Issued by Pinnacle Seven Technologies, For 100% attendance and punctuality in the office of the third quarter"
+        },
+        {
+            "sno":11,
+            "place":"Coimbatore",
+            "date":"March 2022",
+            "title": "Long Service Award",
+            "description":"Issued by Pinnacle Seven Technologies, For longest service in the organization"
+        }
+    ],
+    "monthlyGoals": [
+        {
+            "month":"08",
+            "title": "August",
+            "description":"Concentrate on ReactJS library and do the handson projects"
+        },
+        {
+            "month":"09",
+            "title": "Septemper",
+            "description":"Introduce the ReactNative mobile applications"
+        },
+        {
+            "month":"10",
+            "title": "October",
+            "description":"Introduce the mobile applications in Fultter technologies"
+        }
+    ],
+    "weeklyActivities": [
+        {
+            "month":"08",
+            "week":"31",
+            "date":"01",
+            "topic":"Intro",
+            "link":"https://www.youtube.com/watch?v=bMknfKXIFA8&list=PLadbotLEkZhgTwlga8TfzVrY0TTm2LH1j&index=4&t=0s",
+            "status":"Todo"
+        },
+        {
+            "month":"08",
+            "week":"31",
+            "date":"02",
+            "topic":"What we will learn",
+            "link":"https://www.youtube.com/watch?v=bMknfKXIFA8&list=PLadbotLEkZhgTwlga8TfzVrY0TTm2LH1j&index=4&t=327s",
+            "status":"Todo"
+        },
+        {
+            "month":"08",
+            "week":"31",
+            "date":"03",
+            "topic":"Fun facts about react link",
+            "link":"https://www.youtube.com/watch?v=bMknfKXIFA8&list=PLadbotLEkZhgTwlga8TfzVrY0TTm2LH1j&index=4&t=327s",
+            "status":"Todo"
+        },
+        {
+            "month":"08",
+            "week":"31",
+            "date":"04",
+            "topic":"First react",
+            "link":"https://www.youtube.com/watch?v=bMknfKXIFA8&list=PLadbotLEkZhgTwlga8TfzVrY0TTm2LH1j&index=4&t=548s",
+            "status":"Todo"
+        },
+        {
+            "month":"08",
+            "week":"31",
+            "date":"05",
+            "topic":"Local Setup (the quick way)",
+            "link":"https://www.youtube.com/watch?v=bMknfKXIFA8&list=PLadbotLEkZhgTwlga8TfzVrY0TTm2LH1j&index=4&t=1144s",
+            "status":"Todo"
+        },
+        {
+            "month":"08",
+            "week":"32",
+            "date":"08",
+            "topic":"Why React?",
+            "link":"https://www.youtube.com/watch?v=bMknfKXIFA8&list=PLadbotLEkZhgTwlga8TfzVrY0TTm2LH1j&index=4&t=1263s",
+            "status":"Todo"
+        },
+        {
+            "month":"08",
+            "week":"32",
+            "date":"09",
+            "topic":"JSX",
+            "link":"https://www.youtube.com/watch?v=bMknfKXIFA8&list=PLadbotLEkZhgTwlga8TfzVrY0TTm2LH1j&index=4&t=1838s",
+            "status":"Todo"
+        }
+    ]
+}

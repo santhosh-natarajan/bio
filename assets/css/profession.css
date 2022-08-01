@@ -1,0 +1,97 @@
+.pf-flex-container { 
+    display: flex;
+    justify-content: space-around;
+}
+.pf-title-container { 
+    margin-top: 20px;
+}
+
+.pf-name-title { 
+    color: #fff;     
+    line-height: 1;
+    font-weight: 700; 
+    font-family: 'Poppins', sans-serif;
+}
+
+table { 
+    color: #fff !important;
+    font-size: 16px;
+}
+table a { 
+    color: #18d26e !important;
+}
+
+.font-18 { 
+    font-size: 18px;
+}
+
+.margin-top-3 { 
+    margin-top: 3.5%;
+}
+.two-column-img-box { 
+    display: flex;
+    justify-content: space-between;
+}
+
+.img-icon { 
+    height: 120px !important;
+}
+
+.margin-left-20 { 
+    margin-left: 20%;
+}
+
+.line-height-5 { 
+    line-height: 5;
+}
+
+table tr td { 
+        vertical-align: middle !important;
+}
+
+.tab-title { 
+    font-size: 14px;
+    font-weight: 500;
+    padding: 0;
+    line-height: 1px;
+    margin: 0 0 20px 0;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #aaaaaa;
+    font-family: "Poppins", sans-serif;
+}
+
+#profCard .card { 
+    background-color: transparent;
+    border: 1px solid #18d26e;
+    border-radius: 5%;
+    margin: 5px;
+    color: #aaaaaa;
+    font-size: 16px;
+}
+
+.left-icon { 
+    font-size: 48px !important;
+    color: #fff;
+}
+
+.text-align-end {
+    text-align: end;
+}
+
+.text-align-justify { 
+        text-align: justify;
+}
+
+.goal-card-container { 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.goal-card { 
+    padding: 10px;
+    text-align: center;
+    border: 1px dashed #4cea94;
+    margin: 10px;
+    border-radius: 10%;
+}
