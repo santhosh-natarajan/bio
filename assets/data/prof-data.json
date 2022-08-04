@@ -161,6 +161,30 @@
             "topic":"JSX",
             "link":"https://www.youtube.com/watch?v=bMknfKXIFA8&list=PLadbotLEkZhgTwlga8TfzVrY0TTm2LH1j&index=4&t=1838s",
             "status":"Todo"
+        },
+        {
+            "month":"08",
+            "week":"32",
+            "date":"10",
+            "topic":"Goodbye, CDNs!",
+            "link":"https://www.youtube.com/watch?v=bMknfKXIFA8&t=2419s",
+            "status":"Todo"
+        },
+        {
+            "month":"08",
+            "week":"32",
+            "date":"11",
+            "topic":"Thought Experiment",
+            "link":"https://www.youtube.com/watch?v=bMknfKXIFA8&t=2667s",
+            "status":"Todo"
+        },
+        {
+            "month":"08",
+            "week":"32",
+            "date":"12",
+            "topic":"Project 1 Part 1 - MarkUp",
+            "link":"https://www.youtube.com/watch?v=bMknfKXIFA8&t=2997s",
+            "status":"Todo"
         }
     ]
 }

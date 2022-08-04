@@ -47,15 +47,18 @@ function listingMonthlyGoals() {
 
 function listingWeeklyActivities() { 
   let weeklyActivitiesElem = document.getElementById('weeklyActivities');
-  for(var i=0; i < 5; i++) { 
-    let tableElem =  `
-    <tr>
-            <td>${prof_data.weeklyActivities[i].date}</td>
-            <td> <a href="${prof_data.weeklyActivities[i].link}" target="_blank">${prof_data.weeklyActivities[i].topic}</a></td>
-            <td>${prof_data.weeklyActivities[i].status}</td>
-    </tr>
-    `;
-    weeklyActivitiesElem.innerHTML +=tableElem;
+  let currentWeekNumber = moment().week() - 1; //Give the current week number
+  for(var i=0; i < prof_data.weeklyActivities.length; i++) { 
+    if(currentWeekNumber ===  parseInt(prof_data.weeklyActivities[i].week)) { 
+      let tableElem =  `
+      <tr>
+              <td>${prof_data.weeklyActivities[i].date}</td>
+              <td> <a href="${prof_data.weeklyActivities[i].link}" target="_blank">${prof_data.weeklyActivities[i].topic}</a></td>
+              <td>${prof_data.weeklyActivities[i].status}</td>
+      </tr>
+      `;
+      weeklyActivitiesElem.innerHTML +=tableElem;
+    }
   } 
 }
 
