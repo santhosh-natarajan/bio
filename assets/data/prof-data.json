@@ -185,6 +185,47 @@
             "topic":"Project 1 Part 1 - MarkUp",
             "link":"https://www.youtube.com/watch?v=bMknfKXIFA8&t=2997s",
             "status":"Todo"
+        },
+
+        {
+            "month":"08",
+            "week":"33",
+            "date":"15",
+            "topic":"Pop Quiz!",
+            "link":"https://www.youtube.com/watch?v=bMknfKXIFA8&t=3464s",
+            "status":"Todo"
+        },
+        {
+            "month":"08",
+            "week":"33",
+            "date":"16",
+            "topic":"Components",
+            "link":"https://www.youtube.com/watch?v=bMknfKXIFA8&t=3595s",
+            "status":"Todo"
+        },
+        {
+            "month":"08",
+            "week":"33",
+            "date":"17",
+            "topic":"Setup a local React environment w/ Create React App",
+            "link":"https://www.youtube.com/watch?v=bMknfKXIFA8&t=5587s",
+            "status":"Todo"
+        },
+        {
+            "month":"08",
+            "week":"33",
+            "date":"18",
+            "topic":"Create React app",
+            "link":"https://www.youtube.com/watch?v=bMknfKXIFA8&t=5633s",
+            "status":"Todo"
+        },
+        {
+            "month":"08",
+            "week":"33",
+            "date":"19",
+            "topic":"How to install Node.js",
+            "link":"https://www.youtube.com/watch?v=bMknfKXIFA8&t=5756s",
+            "status":"Todo"
         }
     ]
 }
