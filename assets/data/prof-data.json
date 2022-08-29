@@ -226,6 +226,89 @@
             "topic":"How to install Node.js",
             "link":"https://www.youtube.com/watch?v=bMknfKXIFA8&t=5756s",
             "status":"Todo"
+        },
+
+        {
+            "month":"08",
+            "week":"34",
+            "date":"22",
+            "topic":"Styles and images with CRA",
+            "link":"https://www.youtube.com/watch?v=bMknfKXIFA8&t=6090s",
+            "status":"Todo"
+        },
+        {
+            "month":"08",
+            "week":"34",
+            "date":"23",
+            "topic":"Quick Mental Outline of Project ",
+            "link":"https://www.youtube.com/watch?v=bMknfKXIFA8&t=6363s",
+            "status":"Todo"
+        },
+        {
+            "month":"08",
+            "week":"34",
+            "date":"24",
+            "topic":"Quick Figma Walkthrough",
+            "link":"https://www.youtube.com/watch?v=bMknfKXIFA8&t=6600s",
+            "status":"Todo"
+        },
+        {
+            "month":"08",
+            "week":"34",
+            "date":"25",
+            "topic":"Project Setup",
+            "link":"https://www.youtube.com/watch?v=bMknfKXIFA8&t=6703s",
+            "status":"Todo"
+        },
+        {
+            "month":"08",
+            "week":"34",
+            "date":"26",
+            "topic":"Navbar and Styling",
+            "link":"https://www.youtube.com/watch?v=bMknfKXIFA8&t=7140s",
+            "status":"Todo"
+        },
+
+        {
+            "month":"08",
+            "week":"35",
+            "date":"29",
+            "topic":"Main Section",
+            "link":"https://www.youtube.com/watch?v=bMknfKXIFA8&t=7578s",
+            "status":"Todo"
+        },
+        {
+            "month":"08",
+            "week":"35",
+            "date":"30",
+            "topic":"Color The Bullets",
+            "link":"https://www.youtube.com/watch?v=bMknfKXIFA8&t=8044s",
+            "status":"Todo"
+        },
+        {
+            "month":"08",
+            "week":"35",
+            "date":"31",
+            "topic":"Add Background Logo",
+            "link":"https://www.youtube.com/watch?v=bMknfKXIFA8&t=8190s",
+            "status":"Todo"
+        },
+        {
+            "month":"09",
+            "week":"35",
+            "date":"01",
+            "topic":"Section 1 Solo Project",
+            "link":"https://www.youtube.com/watch?v=bMknfKXIFA8&t=8450s",
+            "status":"Todo"
+        },
+        {
+            "month":"09",
+            "week":"35",
+            "date":"02",
+            "topic":"Digital Business Card",
+            "link":"https://www.youtube.com/watch?v=bMknfKXIFA8&t=8543s",
+            "status":"Todo"
         }
+
     ]
 }
