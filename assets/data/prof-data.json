@@ -90,18 +90,18 @@
     ],
     "monthlyGoals": [
         {
-            "month":"08",
-            "title": "August",
+            "month":"01",
+            "title": "JAN",
             "description":"Concentrate on ReactJS library and do the handson projects"
         },
         {
-            "month":"09",
-            "title": "Septemper",
+            "month":"02",
+            "title": "FEB",
             "description":"Introduce the ReactNative mobile applications"
         },
         {
-            "month":"10",
-            "title": "October",
+            "month":"03",
+            "title": "MAR",
             "description":"Introduce the mobile applications in Fultter technologies"
         }
     ],
